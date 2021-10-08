@@ -1,0 +1,6 @@
+Mathematics
+OOPS
+Data Structure
+DBMS with MsSQL
+Java
+python

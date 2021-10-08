@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1st/1st.iml" filepath="$PROJECT_DIR$/1st/1st.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreaterThan(usingCallbyval,CallbyRef)/GreaterThan(usingCallbyval,CallbyRef).iml" filepath="$PROJECT_DIR$/GreaterThan(usingCallbyval,CallbyRef)/GreaterThan(usingCallbyval,CallbyRef).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library Management Java/Library Management Java.iml" filepath="$PROJECT_DIR$/Library Management Java/Library Management Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultilevelInheritance/MultilevelInheritance.iml" filepath="$PROJECT_DIR$/MultilevelInheritance/MultilevelInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bsecond/bsecond.iml" filepath="$PROJECT_DIR$/bsecond/bsecond.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classAndObjects/classAndObjects.iml" filepath="$PROJECT_DIR$/classAndObjects/classAndObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diagnol sum/diagnol sum.iml" filepath="$PROJECT_DIR$/diagnol sum/diagnol sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factorialprog/factorialprog.iml" filepath="$PROJECT_DIR$/factorialprog/factorialprog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fibbonaciSeries/fibbonaciSeries.iml" filepath="$PROJECT_DIR$/fibbonaciSeries/fibbonaciSeries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fileHandlingLibrary/fileHandlingLibrary.iml" filepath="$PROJECT_DIR$/fileHandlingLibrary/fileHandlingLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hierarichialInheritance/hierarichialInheritance.iml" filepath="$PROJECT_DIR$/hierarichialInheritance/hierarichialInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritenceMultiple/inheritenceMultiple.iml" filepath="$PROJECT_DIR$/inheritenceMultiple/inheritenceMultiple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/largestOfThreeObj(this)/largestOfThreeObj(this).iml" filepath="$PROJECT_DIR$/largestOfThreeObj(this)/largestOfThreeObj(this).iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodOverloadingOverriding/methodOverloadingOverriding.iml" filepath="$PROJECT_DIR$/methodOverloadingOverriding/methodOverloadingOverriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parameterisedConstructor/parameterisedConstructor.iml" filepath="$PROJECT_DIR$/parameterisedConstructor/parameterisedConstructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern/pattern.iml" filepath="$PROJECT_DIR$/pattern/pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog5Accounts/prog5Accounts.iml" filepath="$PROJECT_DIR$/prog5Accounts/prog5Accounts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog6Employee/prog6Employee.iml" filepath="$PROJECT_DIR$/prog6Employee/prog6Employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superKeyword/superKeyword.iml" filepath="$PROJECT_DIR$/superKeyword/superKeyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superKeywordBox/superKeywordBox.iml" filepath="$PROJECT_DIR$/superKeywordBox/superKeywordBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transpose/transpose.iml" filepath="$PROJECT_DIR$/transpose/transpose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/university13prog/university13prog.iml" filepath="$PROJECT_DIR$/university13prog/university13prog.iml" />
+    </modules>
+  </component>
+</project>
